@@ -1,0 +1,10 @@
+# Локальные настройки Claude Code
+.claude/settings.local.json
+
+# Редакторы и IDE
+.vscode/
+.idea/
+*.swp
+
+# ОС
+.DS_Store
