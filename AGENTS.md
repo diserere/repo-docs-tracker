@@ -58,11 +58,11 @@
 
 | Агент / интеграция | Трейлер |
 | --- | --- |
-| ChatGPT через GitHub connector (текущая интеграция) | `Co-Authored-By: ChatGPT <199175422+chatgpt-codex-connector[bot]@users.noreply.github.com>` |
+| ChatGPT | `Co-Authored-By: ChatGPT <noreply@openai.com>` (экспериментальная атрибуция; проверяем отображение GitHub) |
 | OpenAI Codex CLI | `Co-Authored-By: Codex <noreply@openai.com>` |
 | Claude Code | `Co-Authored-By: Claude Code <noreply@anthropic.com>` |
 
-Адрес Codex CLI подтверждается репозиторием OpenAI Codex; адрес ChatGPT connector соответствует GitHub Bot-аккаунту интеграции. Запись Claude Code сохраняет принятую в проекте договорённость.
+Адрес `noreply@openai.com` используется в механизме атрибуции OpenAI Codex. Для ChatGPT проверяем, распознаёт ли GitHub этот адрес как соавтора и связывает ли его с профилем. Запись Claude Code сохраняет принятую в проекте договорённость.
 
 Для других агентов:
 1. Найди адрес в официальной документации поставщика или в коммитах/репозиториях, однозначно связанных с официальным GitHub-аккаунтом агента.
