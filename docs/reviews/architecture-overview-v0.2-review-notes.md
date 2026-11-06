@@ -1,14 +1,13 @@
-**Автор:** Claude Code
-
 # RepoDocs — заметки ревью Architecture Overview v0.2
 
-**Статус:** результат ревью, дополняющий аналитические заметки ChatGPT  
-**Версия:** 0.1  
-**Дата:** 2026-11-07  
-**Связанный PR:** [#4 — Architecture Overview v0.2](https://github.com/diserere/repo-docs-tracker/pull/4)  
-**Связанные документы:**
-- [Анализ обсуждения ревью](architecture-overview-v0.2-discussion-analysis.md) — резюме обсуждения ChatGPT; этот документ его не заменяет.
-- [Предложение по продуктовым сценариям](../product/product-discovery-and-scenarios-proposal.md)
+- **Автор:** Claude Code
+- **Статус:** результат ревью, дополняющий аналитические заметки ChatGPT
+- **Версия:** 0.1
+- **Дата:** 2026-11-07
+- **Связанный PR:** [#4 — Architecture Overview v0.2](https://github.com/diserere/repo-docs-tracker/pull/4)
+- **Связанные документы:**
+  - [Анализ обсуждения ревью](architecture-overview-v0.2-discussion-analysis.md) — резюме обсуждения ChatGPT; этот документ его не заменяет.
+  - [Предложение по продуктовым сценариям](../product/product-discovery-and-scenarios-proposal.md)
 
 > Документ фиксирует мою инженерную позицию с учётом нового продуктового контекста. Он не меняет Architecture Overview и не утверждает архитектурных решений. Итоги по замечаниям принимает владелец проекта.
 
