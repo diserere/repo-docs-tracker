@@ -4,6 +4,7 @@
 **Версия:** 0.2  
 **Рабочее название:** RepoDocs  
 **Связанные документы:**
+
 - [Product Vision](../product/product-vision.md)
 - [Ревью Architecture Overview v0.1](../reviews/architecture-overview-v0.1-review.md)
 
@@ -440,7 +441,7 @@ src/
 Ранее обсуждался следующий кандидат для MVP:
 
 | Область | Предварительный кандидат |
-|---|---|
+| --- | --- |
 | Язык | TypeScript |
 | Runtime | Node.js |
 | Web UI | React |
@@ -550,7 +551,7 @@ Workspace не входит в MVP. Проекты RepoDocs должны ост�
 ## 12. Согласованные решения и требования
 
 | ID | Решение или требование | Статус |
-|---|---|---|
+| --- | --- | --- |
 | D-01 | Web UI, CLI и будущий MCP используют единый Application Services | Согласовано |
 | D-02 | CLI-first модель запуска; `repodocs` показывает статус/справку, `repodocs serve` запускает Web UI | Согласовано |
 | D-03 | CLI полностью неинтерактивен | Согласовано |
