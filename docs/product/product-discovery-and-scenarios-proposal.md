@@ -1,6 +1,7 @@
 # RepoDocs — необходимость продуктовых сценариев и план дальнейшей проработки
 
 **Статус:** предложение по результатам обсуждения Architecture Overview v0.2  
+**Автор:** ChatGPT  
 **Версия:** 0.1  
 **Дата:** 2026-11-06  
 **Связанный PR:** [#4 — Architecture Overview v0.2](https://github.com/diserere/repo-docs-tracker/pull/4)
