@@ -1,5 +1,7 @@
-# Локальные настройки Claude Code
+# Локальные настройки AI-агентов
+.claude/settings.json
 .claude/settings.local.json
+.codex/
 
 # Редакторы и IDE
 .vscode/
@@ -8,3 +10,6 @@
 
 # ОС
 .DS_Store
+
+# Временные файлы и промежуточные документы проекта
+.tmp/
